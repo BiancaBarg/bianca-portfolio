@@ -16,3 +16,7 @@ Then open `http://localhost:4173`.
 - The “New Reel” is clearly marked as coming soon.
 - Instagram, LinkedIn, and email use the contact details from the current portfolio.
 - Replace copy or add project case studies directly in `index.html` when new material is ready.
+
+## Deployment
+
+Published with GitHub Pages for biancabargan.com.
